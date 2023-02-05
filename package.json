@@ -1,0 +1,19 @@
+{
+  "name": "vite-ssr-pyodide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.11.19",
+    "pyodide": "^0.22.1",
+    "tsx": "^3.12.2",
+    "vite": "^4.1.1"
+  }
+}
